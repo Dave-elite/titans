@@ -1,0 +1,45 @@
+
+        *{
+            /**/
+            color:green;
+            padding: 0;
+            margin: 0;
+
+        }
+        h1 {
+            color: white;
+            text-align: center;
+            border: 4px solid none;
+            font-size: 100px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 1400;
+            padding: 23px;
+            margin: 50px;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcHNJBKXMF8v_ejqrpQg5VnYzAbWLawD8IPtsWEy1S8O1cvZwHDxmUHPq24fQd9QvPEI&usqp=CAU);
+
+        }
+        p {
+            text-align: center;
+            color: black;
+            font-size: 20px;
+            font-weight: 400;
+            font-style: normal;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+        h2 {
+            text-align: center;
+            color: aliceblue;
+            font-size: 30px;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+
+
+
+        }
+        div{
+            
+            
+
+        }
+    
